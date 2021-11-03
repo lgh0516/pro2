@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\aaai2018\\PrototypeDL-master\\saved_model\\mnist_model\\mnist_cae_1\\mnist_cae-0"
+all_model_checkpoint_paths: "G:\\aaai2018\\PrototypeDL-master\\saved_model\\mnist_model\\mnist_cae_1\\mnist_cae-0"

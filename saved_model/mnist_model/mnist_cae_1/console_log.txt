@@ -1,0 +1,10 @@
+################################################################################
+Epoch: 0000
+training takes 35.41 seconds.
+training set errors:
+	classification error: 2.821463
+	autoencoder error: 69.890263
+	error_1: 3.287893
+	error_2: 1.603999
+	total error: 131.211423
+	accuracy: 0.2104
